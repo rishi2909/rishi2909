@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi2909&label=Profile%20views&color=0e75b6&style=flat" alt="rishi2909" /> </p>
 
-- 🌱 I’m currently learning **C++ DSA, Decode Data Science with ML**
+- 🌱 I’m currently learning **C++,Java DSA, Decode Data Science with ML**
 
 - 📫 How to reach me **rishiraj2982@gmail.com**
 
